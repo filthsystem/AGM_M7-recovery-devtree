@@ -1,4 +1,4 @@
-# Android device tree for AGM AGM M7 (AGM_M7)
+# Android device tree for AGM M7 (AGM_M7)
 
 ```
 #
